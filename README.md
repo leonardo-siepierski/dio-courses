@@ -1,1 +1,1 @@
-# dio-courses
+# DIO Courses
